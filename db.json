@@ -10,13 +10,13 @@
          "id":2,
          "name":"fildsdase.jpg",
          "path":"/path/taao/fidsdsdle.jpg",
-         "dataset":"sign"
+         "dataset":"signs"
       },
       {
          "id":3,
          "name":"fisdsdadle.jpg",
          "path":"/path/to/filssae.jpg",
-         "dataset":"sign"
+         "dataset":"signs"
       },
       {
          "id":4,
@@ -40,13 +40,13 @@
          "id":7,
          "name":"dsasdsd.jpg",
          "path":"/path/taao/fidsdsdle.jpg",
-         "dataset":"sign"
+         "dataset":"signs"
       },
       {
          "id":8,
          "name":"fsasda.jpg",
          "path":"/path/to/filssae.jpg",
-         "dataset":"sign"
+         "dataset":"signs"
       },
       {
          "id":9,
@@ -60,5 +60,10 @@
          "path":"/path/to/file.jpg",
          "dataset":"drone"
       }
+   ],
+   "datasets":[
+     {"id": 1, "name": "face"},
+     {"id": 1, "name": "signs"},
+     {"id": 1, "name": "drone"}
    ]
 }
