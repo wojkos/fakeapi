@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "path": "/path/to/file.jpg",
+    "dataset": "face"
+  },
+   {
+    "id": 2,
+    "path": "/path/taao/file.jpg",
+    "dataset": "sign"
+  }
+]
