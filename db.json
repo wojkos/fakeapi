@@ -49,6 +49,6 @@
          "id":10,
          "path":"/path/to/file.jpg",
          "dataset":"drone"
-      },
+      }
    ]
 }
